@@ -5,10 +5,16 @@ From the project root directory, execute:
 
 ```bash
 dart run lib/main.dart
+````
 
 ## Legend (Printed Labels)
 
-- **[AgriHub-01]** → Container class (`FarmController`)  
-- **[EastPump]** → Part class (`WaterPump`)  
-- **[SouthCoop]** → Part class (`ChickenCoop`)  
-- **[RedTractor]** → Part class (`Tractor`)  
+* **[AgriHub-01]** → Container class (`FarmController`)
+* **[EastPump]** → Part class (`WaterPump`)
+* **[SouthCoop]** → Part class (`ChickenCoop`)
+* **[RedTractor]** → Part class (`Tractor`)
+
+````
+
+---
+
