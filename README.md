@@ -20,7 +20,15 @@ The container delegates actions to its parts, showing how composition can combin
 - **Demo**: `main.dart`  
   - Instantiates the parts  
   - Passes them into the `FarmController` (constructor injection)  
-  - Runs both routines and prints labeled console output  
+  - Runs both routines and prints labeled console output
+ 
+  ## Legend (Printed Labels)
+
+- **[AgriHub-01]** → Container class (`FarmController`)  
+- **[EastPump]** → Part class (`WaterPump`)  
+- **[SouthCoop]** → Part class (`ChickenCoop`)  
+- **[RedTractor]** → Part class (`Tractor`)  
+
 
 ---
 
